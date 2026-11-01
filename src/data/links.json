@@ -56,6 +56,15 @@
             "web",
             "javascript"
           ]
+        },
+        {
+          "name": "Generador de Exámenes",
+          "url": "https://cce-ops.github.io/generador-examenes/",
+          "description": "App que genera exámenes a partir de apuntes y los corrige automáticamente.",
+          "tags": [
+            "web",
+            "typescript"
+          ]
         }
       ]
     }
