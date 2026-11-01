@@ -9,31 +9,37 @@
           "name": "Herramientas de Ingeniería",
           "url": "https://herramientas-ingenieria.streamlit.app/",
           "description": "PDS/AMFE/Ishikawa/QFD, PERT/CPM/Gantt y VAN/TIR/Payback en una sola app de Streamlit",
-          "tags": ["streamlit", "python"]
+          "tags": [
+            "streamlit",
+            "python"
+          ]
         },
         {
           "name": "Archivo a Markdown",
           "url": "https://archivo-a-markdown.streamlit.app/",
           "description": "Convierte PDF, Word y PowerPoint a Markdown con MarkItDown (sin API)",
-          "tags": ["streamlit", "python"]
+          "tags": [
+            "streamlit",
+            "python"
+          ]
         },
         {
-          "name": "Detector de Plagio",
-          "url": "https://plagio-detector.streamlit.app/",
-          "description": "Detector de plagio para proyectos de ingeniería con motor de reglas y LLM redactor",
-          "tags": ["streamlit", "python"]
-        },
-                {
           "name": "Validador financiero y de costes de ingeniería",
           "url": "https://validador-ingenieria.streamlit.app/",
           "description": "Validador Financiero y de Costes de Ingeniería - PHD, Tarifa Final, Préstamo Francés y TAE, Punto de Equilibrio.",
-          "tags": ["streamlit", "python"]
+          "tags": [
+            "streamlit",
+            "python"
+          ]
         },
         {
           "name": "Planificador de Proyectos",
           "url": "https://planificador-proyectos.streamlit.app/",
           "description": "Planificador de proyectos de ingeniería",
-          "tags": ["streamlit", "python"]
+          "tags": [
+            "streamlit",
+            "python"
+          ]
         }
       ]
     },
@@ -43,52 +49,13 @@
       "icon": "🌐",
       "links": [
         {
-          "name": "ProjectJudge",
-          "url": "https://projectjudge.pages.dev/",
-          "description": "Juez de proyectos",
-          "tags": ["web", "typescript"]
-        },
-        {
-          "name": "Quiz Wooclap",
-          "url": "https://quiz-0c1a.onrender.com/",
-          "description": "Cuestionarios estilo Wooclap",
-          "tags": ["web", "typescript"]
-        },
-        {
           "name": "Herramienta LIDS",
           "url": "https://cce-ops.github.io/herramienta-lids/",
           "description": "Herramienta de Diagnóstico de Ecodiseño (Rueda LIDS)",
-          "tags": ["web", "javascript"]
-        },
-        {
-          "name": "Infografía PDF",
-          "url": "https://infografia-pdf.netlify.app/",
-          "description": "Generador de infografías en PDF",
-          "tags": ["web", "html"]
-        },
-        {
-          "name": "Herramienta Apuntes IA",
-          "url": "https://herramienta-apuntes-ia.vercel.app/",
-          "description": "Convierte materiales docentes (PPTX, DOCX, PDF, MD) en apuntes estructurados con Gemini y exporta a Word editable",
-          "tags": ["web", "typescript"]
-        },
-          {
-          "name": "Generador Exámenes",
-          "url": "https://cce-ops.github.io/generador-examenes/",
-          "description": "App que genera exámenes a partir de apuntes y los corrige automáticamente.",
-          "tags": ["web", "Astro, Typescript, javascript"]
-        },
-        {
-          "name": "Generador PPTX",
-          "url": "https://cce-ops.github.io/generador-pptx/",
-          "description": "De apuntes (.md/.docx/.pdf) a .pptx editable en el navegador. Estático, sin backend, BYOK",
-          "tags": ["web", "javascript"]
-        },
-        {
-          "name": "Evaluador Presentaciones IA",
-          "url": "https://evaluador-presentaciones-ia.pages.dev/",
-          "description": "Evaluador de presentaciones con IA",
-          "tags": ["web", "typescript"]
+          "tags": [
+            "web",
+            "javascript"
+          ]
         }
       ]
     }
