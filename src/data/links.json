@@ -65,6 +65,15 @@
             "web",
             "typescript"
           ]
+        },
+        {
+          "name": "Asistente PACA",
+          "url": "https://cce-ops.github.io/asistente-paca/",
+          "description": "Clasifica actividades industriales según la Ley PACA y lista la documentación mínima por régimen",
+          "tags": [
+            "web",
+            "javascript"
+          ]
         }
       ]
     }
